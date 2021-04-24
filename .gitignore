@@ -1,7 +1,9 @@
 .DS_Store
 node_modules
 /dist
-
+app
+backend
+问题.md
 
 # local env files
 .env.local
